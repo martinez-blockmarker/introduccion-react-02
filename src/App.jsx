@@ -1,3 +1,4 @@
+import ComponentePadre from './components/Ejercicio1/ComponentePadre'
 import Ejercicio1 from './components/Ejercicio1/Ejercicio1'
 import Footer from './components/Footer'
 import Header from './components/Header'
@@ -11,7 +12,7 @@ export default function App() {
       <main>
         <TituloPrincipal />
         <Ejercicio1 />
-        {/* Añade tus componentes aqui */}
+        
       </main>
       <Footer />
     </>
